@@ -1,1 +1,1 @@
-Landing page, o objetivo, é mostrar um pouco sobre mim e o meu currículo!
+Página com o objetivo, de mostrar um pouco sobre mim e o meu currículo!
